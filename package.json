@@ -4,7 +4,7 @@
   "description": "An example project that sleeps and prints to the console",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.15"
+    "lodash": "4.17.19"
   },
   "repository": {
     "type": "git",
